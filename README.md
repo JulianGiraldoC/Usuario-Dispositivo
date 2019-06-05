@@ -1,0 +1,2 @@
+# Usuario-Dispositivo
+utilizando JPA
